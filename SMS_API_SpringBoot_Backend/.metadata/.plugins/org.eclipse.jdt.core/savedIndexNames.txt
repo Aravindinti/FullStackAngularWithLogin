@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\Aravind\OneDrive\Desktop\vwits\Day25&26\FullstackAngular\SMS_API_SpringBoot_Backend\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
